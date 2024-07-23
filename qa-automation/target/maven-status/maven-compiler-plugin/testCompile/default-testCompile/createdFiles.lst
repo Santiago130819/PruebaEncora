@@ -1,0 +1,5 @@
+pages\RegisterPage.class
+RunCucumberTest.class
+steps\RegistrationSteps.class
+pages\LoginPage.class
+pages\HomePage.class
